@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF9E80"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Temperatura em Fahrenheit:"
+        android:textAlignment="center"
+        android:textSize="38dp" />
+
+    <TextView
+        android:id="@+id/tvF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="#2C2323"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Temperatura em Kelvin:"
+        android:textAlignment="center"
+        android:textSize="38sp" />
+
+    <TextView
+        android:id="@+id/tvK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="#2C2323"
+        android:textSize="35dp" />
+
+    <Button
+        android:id="@+id/btnvoltar"
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:text="Voltar"
+        android:textColor="#553F3F"
+        android:textSize="24sp" />
+
+
+</LinearLayout>

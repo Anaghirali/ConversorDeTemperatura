@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF9E80"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:shadowColor="#FFB8B8"
+        android:text="Coloque a Temperatura em C°:"
+        android:textAlignment="center"
+        android:textColor="#4A3838"
+        android:textColorHighlight="#633B3B"
+        android:textIsSelectable="false"
+        android:textSize="29dp"
+        android:textStyle="bold|italic" />
+
+    <EditText
+        android:id="@+id/edtTemp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp" />
+
+
+    <Button
+        android:id="@+id/btnTela2"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:text="Calcular"
+        android:textColor="#734242"
+        android:textSize="30dp" />
+
+</LinearLayout>

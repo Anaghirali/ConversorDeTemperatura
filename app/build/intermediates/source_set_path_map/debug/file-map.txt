@@ -1,0 +1,12 @@
+com.example.conversordetemp.app-appcompat-v7-28.0.0-0 /Users/u21418/.gradle/caches/transforms-3/05de8c41fdde52fe1c7dc583b599de44/transformed/appcompat-v7-28.0.0/res
+com.example.conversordetemp.app-support-compat-28.0.0-1 /Users/u21418/.gradle/caches/transforms-3/85e8df90276e95c75de3fa04945b018a/transformed/support-compat-28.0.0/res
+com.example.conversordetemp.app-coordinatorlayout-28.0.0-2 /Users/u21418/.gradle/caches/transforms-3/d635870cacc85af38cd70ce95dfa2e4f/transformed/coordinatorlayout-28.0.0/res
+com.example.conversordetemp.app-constraint-layout-2.0.4-3 /Users/u21418/.gradle/caches/transforms-3/f9d64e14c042d69360539e39f061100a/transformed/constraint-layout-2.0.4/res
+com.example.conversordetemp.app-pngs-4 /Users/u21418/AndroidStudioProjects/ConversorDeTemp/app/build/generated/res/pngs/debug
+com.example.conversordetemp.app-resValues-5 /Users/u21418/AndroidStudioProjects/ConversorDeTemp/app/build/generated/res/resValues/debug
+com.example.conversordetemp.app-rs-6 /Users/u21418/AndroidStudioProjects/ConversorDeTemp/app/build/generated/res/rs/debug
+com.example.conversordetemp.app-packageDebugResources-7 /Users/u21418/AndroidStudioProjects/ConversorDeTemp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.conversordetemp.app-packageDebugResources-8 /Users/u21418/AndroidStudioProjects/ConversorDeTemp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.conversordetemp.app-merged_res-9 /Users/u21418/AndroidStudioProjects/ConversorDeTemp/app/build/intermediates/merged_res/debug
+com.example.conversordetemp.app-debug-10 /Users/u21418/AndroidStudioProjects/ConversorDeTemp/app/src/debug/res
+com.example.conversordetemp.app-main-11 /Users/u21418/AndroidStudioProjects/ConversorDeTemp/app/src/main/res

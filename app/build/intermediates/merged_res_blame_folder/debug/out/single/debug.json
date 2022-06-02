@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.conversordetemp.app-merged_res-9:/layout_activity_main2.xml.flat",
+        "source": "com.example.conversordetemp.app-main-11:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/xml_backup_rules.xml.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/layout_activity_main2.xml.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-merged_res-9:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/u21418/.gradle/daemon/7.3.3/com.example.conversordetemp.app-main-11:/drawable-v24/ic_launcher_foreground.xml"
+    }
+]
